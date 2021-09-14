@@ -1,9 +1,11 @@
 # node-express-mongoDB
 
-### `npm install`
+install node module
+### `npm install` 
 or 
 ### `yarn install` 
 
+start project
 ### `npm start` 
 or 
 ### `yarn start` 
